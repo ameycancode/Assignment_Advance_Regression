@@ -16,4 +16,8 @@ CSV File: model_data.csv
 PDF File: Assignment_Question_Answers.pdf
 	All the questions and their answers are present in this pdf file
 	
+If you are going to execute the python notebook files, then kindly
+1: execute notebook "EDA_Completed.ipynb" and then
+2: execute notebook "Regularisaion_and_Question_Based_Model.ipynb"
+	
 
